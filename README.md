@@ -79,7 +79,7 @@ These metrics help determine how well the model predicts match outcomes.
 ---
 
 ## Project Structure
-
+---
 IPR-Final-EPL
 │
 ├── main.ipynb
