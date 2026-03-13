@@ -1,6 +1,6 @@
 # Premier League Match Outcome Prediction
 
-![Premier League](https://github.com/coderfeye13/IPR-Final-EPL/blob/main/eplLogo.jpeg)
+![Premier League](./eplLogo.jpeg)
 
 This project explores whether match outcomes in the **English Premier League (EPL)** can be predicted using historical match statistics.
 
@@ -28,8 +28,8 @@ Possible outputs include:
 
 The dataset contains match statistics from two Premier League seasons:
 
-- 2020–2021
-- 2021–2022
+- 2020-2021
+- 2021-2022
 
 Files included in the repository:
 
@@ -53,15 +53,13 @@ The data was used to train and evaluate predictive models.
 
 The following steps were applied in the project:
 
-1. Data loading and preprocessing  
-2. Feature selection  
-3. Dataset merging across seasons  
-4. Model training  
-5. Model evaluation  
+1. Data loading and preprocessing
+2. Feature selection
+3. Dataset merging across seasons
+4. Model training
+5. Model evaluation
 
-The workflow is implemented in:
-
-`main.ipynb`
+The workflow is implemented in `main.ipynb`.
 
 ---
 
@@ -79,15 +77,15 @@ These metrics help determine how well the model predicts match outcomes.
 ---
 
 ## Project Structure
----
-IPR-Final-EPL
-│
-├── main.ipynb
-├── 2020-2021.csv
-├── 2021-2022.csv
-├── IPR_final.pdf
-├── eplLogo.jpeg
-└── README.md
+
+    IPR-Final-EPL
+    ├── main.ipynb
+    ├── 2020-2021.csv
+    ├── 2021-2022.csv
+    ├── IPR_final.pdf
+    ├── eplLogo.jpeg
+    └── README.md
+
 ---
 
 ## Technologies Used
